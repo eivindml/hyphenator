@@ -1,0 +1,249 @@
+Time to load dictionary: 16.033755 s
+✅  Input: abortmotstander | Should be: abort+motstander
+Got: ["abort+mot+stan+der", "abort+mot+stand+er", "abort+mot+stander", "abort+mot+s+tan+der", "abort+mot+s+tander", "abort+motstand+er", "abort+motstander", "abortmotstander"]
+✅  Input: abortsøker | Should be: abort+søker
+Got: ["abort+søk+er", "abort+søker", "abort+s+øk+er", "abort+s+øker", "abortsøker"]
+❌  Input: acappellasang | Should be: accapella+sang
+Got: ["acappellasang"]
+✅  Input: administrasjonsbo | Should be: administrasjon+s+bo
+Got: ["administrasjon+s+bo"]
+✅  Input: aftensmat | Should be: aftens+mat
+Got: ["aften+s+mat", "aftens+mat", "aftensmat"]
+✅  Input: aleneforelder | Should be: alene+forelder
+Got: ["al+en+efor+el+der", "al+en+efor+eld+er", "al+en+efor+elder", "al+en+e+for+el+der", "al+en+e+for+eld+er", "al+en+e+for+elder", "al+en+e+forelder", "al+ene+for+el+der", "al+ene+for+eld+er", "al+ene+for+elder", "al+ene+forelder", "al+e+ne+for+el+der", "al+e+ne+for+eld+er", "al+e+ne+for+elder", "al+e+ne+forelder", "ale+ne+for+el+der", "ale+ne+for+eld+er", "ale+ne+for+elder", "ale+ne+forelder", "alen+efor+el+der", "alen+efor+eld+er", "alen+efor+elder", "alen+e+for+el+der", "alen+e+for+eld+er", "alen+e+for+elder", "alen+e+forelder", "alene+for+el+der", "alene+for+eld+er", "alene+for+elder", "alene+forelder", "aleneforelder"]
+❌  Input: avhør | Should be: av+hør
+Got: ["avhør"]
+✅  Input: barnepike | Should be: barn+e+pike
+Got: ["bar+ne+pike", "barn+e+pike", "barnepike"]
+✅  Input: beltedyr | Should be: belte+dyr
+Got: ["bel+te+dyr", "belt+ed+yr", "belt+e+dyr", "belte+dyr", "beltedyr"]
+✅  Input: benarbeid | Should be: ben+arbeid
+Got: ["ben+ar+be+id", "ben+arbeid", "benarbeid"]
+✅  Input: bingovinge | Should be: bingo+vinge
+Got: ["bingo+vinge"]
+✅  Input: bjelleklang | Should be: bjelle+klang
+Got: ["bjelle+klang", "bjelleklang"]
+✅  Input: blodhevner | Should be: blod+hevner
+Got: ["bl+od+hevn+er", "bl+od+hevner", "blod+hevn+er", "blod+hevner", "blodhevn+er", "blodhevner"]
+✅  Input: blodsuger | Should be: blod+suger
+Got: ["bl+od+sug+er", "bl+od+suger", "blod+sug+er", "blod+suger", "blodsuger"]
+✅  Input: bogstek | Should be: bog+stek
+Got: ["bog+stek", "bog+s+tek"]
+✅  Input: brakkvann | Should be: brakk+vann
+Got: ["brak+kvann", "brakk+vann", "brakk+kvann", "brakkvann"]
+✅  Input: bryllupsdag | Should be: bryllup+s+dag
+Got: ["bryllup+s+dag", "bryllupsdag"]
+✅  Input: båtfører | Should be: båt+fører
+Got: ["båt+fø+rer", "båt+før+er", "båt+fører", "båtfører"]
+✅  Input: desimaltall | Should be: desimal+tall
+Got: ["de+si+mal+tall", "de+si+malt+all", "desim+al+tall", "desim+alt+all", "desimal+tall", "desimalt+all", "desimaltall"]
+✅  Input: edelsten | Should be: edel+sten
+Got: ["ed+el+sten", "edel+sten", "edelsten"]
+✅  Input: entall | Should be: en+tall
+Got: ["en+tall", "ent+all", "entall"]
+✅  Input: eplekake | Should be: eple+kake
+Got: ["ep+le+kake", "ep+lek+ake", "eple+kake", "eplekake"]
+✅  Input: etterforskning | Should be: etter+forskning
+Got: ["et+ter+forskning", "ett+er+forskning", "etter+forskning", "etterforskning"]
+✅  Input: etternavn | Should be: etter+navn
+Got: ["et+ter+navn", "ett+er+navn", "etter+navn", "etternavn"]
+✅  Input: ettertenksom | Should be: etter+tenksom
+Got: ["et+ter+tenk+som", "et+ter+tenk+s+om", "et+ter+tenksom", "ett+er+tenk+som", "ett+er+tenk+s+om", "ett+er+tenksom", "etter+tenk+som", "etter+tenk+s+om", "etter+tenksom", "ettertenksom"]
+✅  Input: fagdommer | Should be: fag+dommer
+Got: ["fag+do+mm+er", "fag+dom+mer", "fag+dommer", "fagdommer"]
+✅  Input: fagforening | Should be: fag+forening
+Got: ["fag+for+ening", "fag+forening", "fagforening"]
+✅  Input: femminutter | Should be: fem+minutter
+Got: ["fe+mm+in+ut+ter", "fe+mm+mi+nut+ter", "fe+mm+min+ut+ter", "fe+mm+minutt+er", "fe+mm+minutter", "fem+mi+nut+ter", "fem+min+ut+ter", "fem+minutt+er", "fem+minutter"]
+✅  Input: fettrand | Should be: fett+rand
+Got: ["fett+rand", "fettrand"]
+✅  Input: fettsuging | Should be: fett+suging
+Got: ["fett+suging", "fettsuging"]
+✅  Input: fjernlys | Should be: fjern+lys
+Got: ["fjern+lys", "fjernlys"]
+✅  Input: flatbanker | Should be: flat+banker
+Got: ["flat+bank+er", "flat+banker"]
+✅  Input: flertall | Should be: fler+tall
+Got: ["fler+tall", "flertall"]
+✅  Input: fliselegger | Should be: flise+legger
+Got: ["fli+se+legg+er", "fli+se+legger", "fli+sel+egg+er", "fli+sel+egger", "fli+s+el+egg+er", "fli+s+el+egger", "flis+el+egg+er", "flis+el+egger", "flis+e+legg+er", "flis+e+legger", "flise+legg+er", "flise+legger", "fliselegg+er", "fliselegger"]
+✅  Input: flislegger | Should be: flis+legger
+Got: ["fli+slegg+er", "fli+slegger", "fli+s+legg+er", "fli+s+legger", "flis+legg+er", "flis+legger", "flislegg+er", "flislegger"]
+✅  Input: fremmedord | Should be: fremmed+ord
+Got: ["frem+med+ord", "fremmed+ord", "fremmedord"]
+✅  Input: frempek | Should be: frem+pek
+Got: ["frem+pek", "frempek"]
+✅  Input: fremtid | Should be: frem+tid
+Got: ["frem+tid", "fremt+id", "fremtid"]
+✅  Input: frikirke | Should be: fri+kirke
+Got: ["fri+kirke", "frikirke"]
+✅  Input: fylkesvei | Should be: fylkes+vei
+Got: ["fylk+e+svei", "fylke+svei", "fylke+s+vei", "fylkes+vei", "fylkesvei"]
+✅  Input: førstehjelp | Should be: første+hjelp
+Got: ["før+ste+hjelp", "før+s+te+hjelp", "først+e+hjelp", "første+hjelp", "førstehjelp"]
+✅  Input: førtitall | Should be: førti+tall
+Got: ["før+ti+tall", "før+tit+all", "før+titall", "ført+it+all", "førti+tall", "førtitall"]
+✅  Input: gammelengelsk | Should be: gammel+engelsk
+Got: ["ga+mm+el+eng+elsk", "ga+mm+el+engelsk", "ga+mm+e+leng+elsk", "gam+mel+eng+elsk", "gam+mel+engelsk", "gamme+leng+elsk", "gammel+eng+elsk", "gammel+engelsk", "gammelengelsk"]
+✅  Input: garnfisker | Should be: garn+fisker
+Got: ["garn+fisk+er", "garn+fisker", "garnfisker"]
+✅  Input: grønnsak | Should be: grønn+sak
+Got: ["grønn+sak", "grønn+s+ak", "grønnsak"]
+✅  Input: heltall | Should be: hel+tall
+Got: ["hel+tall", "helt+all", "heltall"]
+✅  Input: hetebølge | Should be: hete+bølge
+Got: ["he+te+bølge", "het+e+bølge", "hete+bølge", "hetebølge"]
+✅  Input: himmellegeme | Should be: himmel+legeme
+Got: ["hi+mm+el+le+geme", "hi+mm+el+legeme", "hi+mm+ell+e+geme", "hi+mm+elle+geme", "himmel+le+geme", "himmel+legeme", "himmellegeme"]
+✅  Input: hustak | Should be: hus+tak
+Got: ["hu+stak", "hu+s+tak", "hus+tak", "hust+ak", "hustak"]
+✅  Input: hvalku | Should be: hval+ku
+Got: ["hval+ku", "hvalku"]
+✅  Input: hverdag | Should be: hver+dag
+Got: ["hver+dag", "hverdag"]
+❌  Input: hvitveis | Should be: hvit+veis
+Got: ["hvi+tv+e+is", "hvit+ve+is", "hvitveis"]
+✅  Input: håndkrem | Should be: hånd+krem
+Got: ["hånd+krem"]
+✅  Input: håndverker | Should be: hånd+verker
+Got: ["hånd+verk+er", "hånd+verker", "håndverk+er", "håndverker"]
+✅  Input: høydedrag | Should be: høyde+drag
+Got: ["hø+yd+ed+rag", "hø+yd+e+drag", "høy+de+drag", "høyde+drag", "høydedrag"]
+✅  Input: islender | Should be: is+lender
+Got: ["is+len+der", "is+lend+er", "is+lender", "islender"]
+✅  Input: juksemaker | Should be: jukse+maker
+Got: ["juks+e+mak+er", "juks+e+maker", "jukse+mak+er", "jukse+maker", "juksemaker"]
+✅  Input: julegave | Should be: jule+gave
+Got: ["jul+e+ga+ve", "jul+e+gave", "jule+ga+ve", "jule+gave", "julegave"]
+✅  Input: kampsang | Should be: kamp+sang
+Got: ["kam+ps+ang", "kamp+sang", "kamp+s+ang", "kampsang"]
+✅  Input: kannestøper | Should be: kanne+støper
+Got: ["kan+ne+stø+per", "kan+ne+støp+er", "kan+ne+støper", "kan+ne+s+tø+per", "kan+nes+tø+per", "kanne+stø+per", "kanne+støp+er", "kanne+støper", "kanne+s+tø+per", "kannestøper"]
+✅  Input: karnappvindu | Should be: karnapp+vindu
+Got: ["kar+napp+vin+du", "kar+napp+vindu", "karnapp+vin+du", "karnapp+vindu", "karnappvindu"]
+✅  Input: kraveben | Should be: krave+ben
+Got: ["kra+ve+ben", "krav+e+ben", "krave+ben", "kraveben"]
+✅  Input: leiesoldat | Should be: leie+soldat
+Got: ["lei+e+sold+at", "lei+e+soldat", "leie+sold+at", "leie+soldat", "leiesoldat"]
+✅  Input: lovlærer | Should be: lov+lærer
+Got: ["lov+lær+er", "lov+lærer"]
+✅  Input: makthaver | Should be: makt+haver
+Got: ["makt+hav+er", "makt+haver", "makthaver"]
+✅  Input: mangekjemper | Should be: mange+kjemper
+Got: ["mang+e+kjem+per", "mang+e+kjemp+er", "mang+e+kjemper", "mange+kjem+per", "mange+kjemp+er", "mange+kjemper", "mangekjemper"]
+✅  Input: meddele | Should be: med+dele
+Got: ["med+de+le", "med+dele", "meddele"]
+✅  Input: mellomnavn | Should be: mellom+navn
+Got: ["mel+lom+navn", "mellom+navn", "mellomnavn"]
+✅  Input: mellomvalg | Should be: mellom+valg
+Got: ["mel+lom+valg", "mellom+valg"]
+✅  Input: motorvei | Should be: motor+vei
+Got: ["mo+torv+ei", "mot+or+vei", "mot+orv+ei", "motor+vei", "motorvei"]
+✅  Input: nedbryter | Should be: ned+bryter
+Got: ["ned+bry+ter", "ned+bryt+er", "ned+bryter", "nedbryt+er", "nedbryter"]
+✅  Input: nervepirrende | Should be: nerve+pirrende
+Got: ["nerve+pir+ren+de", "nerve+pirr+en+de", "nerve+pirr+ende", "nerve+pirrende", "nervepirrende"]
+✅  Input: nestkommanderende | Should be: nest+kommanderende
+Got: ["nest+kom+man+de+ren+de", "nest+kom+man+der+en+de", "nest+kom+man+der+ende", "nest+kommander+en+de", "nest+kommander+ende", "nest+kommanderende", "nestkommanderende"]
+✅  Input: nikkedukke | Should be: nikke+dukke
+Got: ["nikk+e+dukke", "nikke+dukke", "nikkedukke"]
+✅  Input: nådegave | Should be: nåde+gave
+Got: ["nå+de+ga+ve", "nå+de+gave", "nå+deg+ave", "nåde+ga+ve", "nåde+gave", "nådegave"]
+✅  Input: nådestøt | Should be: nåde+støt
+Got: ["nå+de+støt", "nå+de+s+tøt", "nåde+støt", "nåde+s+tøt", "nådestøt"]
+✅  Input: nødrakett | Should be: nød+rakett
+Got: ["nød+rak+ett", "nød+rakett", "nødrakett"]
+✅  Input: oddetall | Should be: odde+tall
+Got: ["od+de+tall", "od+det+all", "odd+et+all", "odd+e+tall", "odde+tall", "oddetall"]
+✅  Input: ordspill | Should be: ord+spill
+Got: ["ord+spill", "ord+s+pill", "ordspill"]
+✅  Input: planteeter | Should be: plante+eter
+Got: ["plan+te+et+er", "plan+te+eter", "plan+te+e+ter", "plan+tee+ter", "plan+tee+et+er", "plan+tee+eter", "plant+e+et+er", "plant+e+eter", "plante+et+er", "plante+eter", "plante+e+ter", "planteeter"]
+✅  Input: postbud | Should be: post+bud
+Got: ["post+bud", "postbud"]
+✅  Input: prekestol | Should be: preke+stol
+Got: ["prek+est+ol", "prek+e+stol", "preke+stol", "prekestol"]
+✅  Input: presidentvalg | Should be: president+valg
+Got: ["pre+si+dent+valg", "pre+sid+ent+valg", "pre+s+id+ent+valg", "pre+s+ident+valg", "president+valg", "presidentvalg"]
+✅  Input: primtall | Should be: prim+tall
+Got: ["prim+tall", "primt+all", "primtall"]
+✅  Input: prøvespille | Should be: prøve+spille
+Got: ["prøv+e+spil+le", "prøv+e+spille", "prøve+spil+le", "prøve+spille", "prøve+s+pil+le", "prøve+s+pille", "prøves+pil+le", "prøves+pille", "prøvespille"]
+✅  Input: regimekritiker | Should be: regime+kritiker
+Got: ["regime+kri+tik+er", "regime+kri+tiker", "regime+kritiker", "regimekritiker"]
+✅  Input: regnskau | Should be: regn+skau
+Got: ["regn+skau", "regn+s+kau", "regnskau"]
+✅  Input: regnvær | Should be: regn+vær
+Got: ["regn+vær", "regnvær"]
+✅  Input: rullefører | Should be: rulle+fører
+Got: ["rull+e+fø+rer", "rull+e+før+er", "rull+e+fører", "rulle+fø+rer", "rulle+før+er", "rulle+fører", "rullefør+er", "rullefører"]
+✅  Input: rådgiver | Should be: råd+giver
+Got: ["rå+dg+iver", "råd+giv+er", "råd+giver", "rådgiver"]
+✅  Input: rørlegger | Should be: rør+legger
+Got: ["rør+legg+er", "rør+legger", "rørlegger"]
+✅  Input: sentrallegeme | Should be: sentral+legeme
+Got: ["sen+tral+le+geme", "sen+tral+legeme", "sen+trall+e+geme", "sen+tralle+geme", "sent+rall+e+geme", "sent+ralle+geme", "sentr+al+le+geme", "sentr+al+legeme", "sentr+all+e+geme", "sentr+alle+geme", "sentral+le+geme", "sentral+legeme"]
+✅  Input: sentralstøvsuger | Should be: sentral+støvsuger
+Got: ["sen+tral+støv+sug+er", "sen+tral+støv+suger", "sen+tral+støvsug+er", "sen+tral+støvsuger", "sen+tral+s+tøv+sug+er", "sen+tral+s+tøv+suger", "sentr+al+støv+sug+er", "sentr+al+støv+suger", "sentr+al+støvsug+er", "sentr+al+støvsuger", "sentr+al+s+tøv+sug+er", "sentr+al+s+tøv+suger", "sentral+støv+sug+er", "sentral+støv+suger", "sentral+støvsug+er", "sentral+støvsuger", "sentral+s+tøv+sug+er", "sentral+s+tøv+suger"]
+✅  Input: sjekksvindler | Should be: sjekk+svindler
+Got: ["sjekk+svin+dl+er", "sjekk+svindl+er", "sjekk+svindler", "sjekk+s+vin+dl+er", "sjekk+s+vind+ler", "sjekk+s+vindler", "sjekksvindler"]
+✅  Input: sjørøver | Should be: sjø+røver
+Got: ["sjø+røv+er", "sjø+røver", "sjørøver"]
+✅  Input: skapdranker | Should be: skap+dranker
+Got: ["skap+drank+er", "skap+dranker", "skapdranker"]
+✅  Input: skipshandler | Should be: skip+s+handler
+Got: ["ski+ps+han+dl+er", "ski+ps+hand+ler", "ski+ps+handl+er", "ski+ps+handler", "skip+s+han+dl+er", "skip+s+hand+ler", "skip+s+handl+er", "skip+s+handler", "skipshandler"]
+✅  Input: skogbruker | Should be: skog+bruker
+Got: ["skog+bruk+er", "skog+bruker", "skogbruk+er", "skogbruker"]
+✅  Input: skuespiller | Should be: skue+spiller
+Got: ["sku+e+spil+ler", "sku+e+spill+er", "sku+e+spiller", "skue+spil+ler", "skue+spill+er", "skue+spiller", "skue+s+pil+ler", "skue+s+pill+er", "skue+s+piller", "skues+pil+ler", "skues+pill+er", "skues+piller", "skuespill+er", "skuespiller"]
+✅  Input: spekekjøtt | Should be: speke+kjøtt
+Got: ["spek+e+kjøtt", "speke+kjøtt", "spekekjøtt"]
+✅  Input: spritsmugler | Should be: sprit+smugler
+Got: ["sprit+smug+ler", "sprit+smugl+er", "sprit+smugler", "sprit+s+mug+ler", "spritsmugler"]
+✅  Input: sprøytemisbruker | Should be: sprøyte+misbruker
+Got: ["sprø+yt+e+mi+s+bruk+er", "sprø+yt+e+mi+s+bruker", "sprø+yt+e+mis+bruk+er", "sprø+yt+e+mis+bruker", "sprø+yt+e+misbruk+er", "sprø+yt+e+misbruker", "sprø+yte+mi+s+bruk+er", "sprø+yte+mi+s+bruker", "sprø+yte+mis+bruk+er", "sprø+yte+mis+bruker", "sprø+yte+misbruk+er", "sprø+yte+misbruker", "sprøyt+e+mi+s+bruk+er", "sprøyt+e+mi+s+bruker", "sprøyt+e+mis+bruk+er", "sprøyt+e+mis+bruker", "sprøyt+e+misbruk+er", "sprøyt+e+misbruker", "sprøyte+mi+s+bruk+er", "sprøyte+mi+s+bruker", "sprøyte+mis+bruk+er", "sprøyte+mis+bruker", "sprøyte+misbruk+er", "sprøyte+misbruker", "sprøytemisbruker"]
+✅  Input: stevnemøte | Should be: stevne+møte
+Got: ["stev+ne+mø+te", "stev+ne+møte", "stevn+e+mø+te", "stevn+e+møte", "stevne+mø+te", "stevne+møte", "stevnemøte"]
+✅  Input: stoppested | Should be: stoppe+sted
+Got: ["stopp+est+ed", "stopp+e+sted", "stoppe+sted", "stoppested"]
+✅  Input: størrelsesorden | Should be: størrelse+s+orden
+Got: ["størrelse+s+or+den", "størrelse+s+ord+en", "størrelse+s+orden", "størrelsesorden"]
+✅  Input: støvsuger | Should be: støv+suger
+Got: ["støv+sug+er", "støv+suger", "støvsug+er", "støvsuger"]
+✅  Input: særegen | Should be: sær+egen
+Got: ["sær+egen", "sær+e+gen", "sære+gen", "særegen"]
+✅  Input: tallfølge | Should be: tall+følge
+Got: ["tall+følge"]
+✅  Input: tempelridder | Should be: tempel+ridder
+Got: ["tem+pel+rid+der", "tem+pel+ridd+er", "tem+pel+ridder", "temp+el+rid+der", "temp+el+ridd+er", "temp+el+ridder", "tempel+rid+der", "tempel+ridd+er", "tempel+ridder"]
+✅  Input: tenketank | Should be: tenke+tank
+Got: ["tenk+et+ank", "tenk+e+tank", "tenke+tank"]
+✅  Input: trolløye | Should be: troll+øye
+Got: ["troll+øye", "troll+løye", "trolløye"]
+✅  Input: trykkbølge | Should be: trykk+bølge
+Got: ["trykk+bølge", "trykkbølge"]
+✅  Input: valgurne | Should be: valg+urne
+Got: ["valg+ur+ne", "valg+urne", "valgurne"]
+✅  Input: vannmelon | Should be: vann+melon
+Got: ["vann+melon", "vannmelon"]
+✅  Input: vennesex | Should be: venne+sex
+Got: ["ven+ne+sex", "ven+ne+s+ex", "ven+nes+ex", "venn+e+sex", "venne+sex", "venne+s+ex", "vennes+ex"]
+✅  Input: vingård | Should be: vin+gård
+Got: ["vin+gård", "vingård"]
+✅  Input: vinkelskriver | Should be: vinkel+skriver
+Got: ["vink+el+skriv+er", "vink+el+skriver", "vink+elsk+riv+er", "vink+elsk+river", "vinkel+skriv+er", "vinkel+skriver", "vinkelskriver"]
+✅  Input: virkemiddel | Should be: virke+middel
+Got: ["virk+e+midd+el", "virk+e+middel", "virke+midd+el", "virke+middel", "virkemiddel"]
+✅  Input: virussykdom | Should be: virus+sykdom
+Got: ["vi+ru+s+syk+dom", "vi+ru+s+sykdom", "vi+rus+syk+dom", "vi+rus+sykdom", "vi+russ+syk+dom", "vi+russ+sykdom", "vir+uss+syk+dom", "vir+uss+sykdom", "virus+syk+dom", "virus+sykdom", "virussykdom"]
+✅  Input: åpenbare | Should be: åpen+bare
+Got: ["åpen+ba+re", "åpen+bare", "åpenbare"]
+✅  Input: øyeblikk | Should be: øye+blikk
+Got: ["øy+e+blikk", "øye+blikk", "øyeblikk"]
+✅  Input: øyebryn | Should be: øye+bryn
+Got: ["øy+e+bryn", "øye+bryn", "øyebryn"]
+✅  Input: øyensynlig | Should be: øyen+synlig
+Got: ["øy+en+synlig", "øyen+synlig", "øyensynlig"]
+123 tests took 2032.462653 s
+120 passed 3 failed / 123
